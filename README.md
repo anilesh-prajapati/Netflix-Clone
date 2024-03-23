@@ -20,8 +20,8 @@ This is a Netflix clone created using HTML and CSS, providing users with a glimp
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![image](https://github.com/anilesh-prajapati/Netflix-Clone/assets/65806802/6e78e90a-90ca-401a-b462-85ed90efe15a)
+
 
 ## Credits
 
@@ -32,9 +32,6 @@ This is a Netflix clone created using HTML and CSS, providing users with a glimp
 
 Contributions are welcome! If you have any ideas or suggestions to enhance this clone, feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
